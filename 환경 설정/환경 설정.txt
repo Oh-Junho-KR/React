@@ -1,3 +1,4 @@
+[React 시작 및 생성]
 1. 프로젝트 경로 설정
 2. 경로 하단에 폴더 생성
 3. vscode folder open -> 폴더 선택
@@ -5,3 +6,5 @@
 5. 프로젝트 경로 터미널 실행
 6. npm install -g create-react-app (리액트 프로젝트 생성하기 위한 패키지 다운, -g PC안에서 어디서든 패키지 로드 가능)
 7. npx create-react-app 이름 (이름은 소문자로 시작)
+8. cd 이름 (경로 변경)
+9. npm start (실행)
