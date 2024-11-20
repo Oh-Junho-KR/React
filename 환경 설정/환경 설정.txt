@@ -1,0 +1,7 @@
+1. 프로젝트 경로 설정
+2. 경로 하단에 폴더 생성
+3. vscode folder open -> 폴더 선택
+4. node -v, npm -v 확인 (에러 시 설치) (cur ver: v20.18.0, v10.8.2)
+5. 프로젝트 경로 터미널 실행
+6. npm install -g create-react-app (리액트 프로젝트 생성하기 위한 패키지 다운, -g PC안에서 어디서든 패키지 로드 가능)
+7. npx create-react-app 이름 (이름은 소문자로 시작)
