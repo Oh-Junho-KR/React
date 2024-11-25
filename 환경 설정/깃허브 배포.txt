@@ -1,0 +1,31 @@
+git 저장소 초기화
+> git init
+
+작업한 소스 원격 저장소 추가
+> git remote add origin url
+> git remote add origin https://github.com/Oh-Junho-KR/React.git
+
+모든 파일 git stage 추가
+> git add .
+
+stage 추가 된 파일 commit 
+> git commit -m "comments"
+> git commit -am "front react"
+
+origin에 존재하는 branch로 push
+> git push origin branchname
+> git push origin master
+
+* commit 시 에러
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+해결
+> git config --global user.email "you@example.com"
+> git config --global user.name "Your Name"
